@@ -14,3 +14,9 @@ Link to article: *Coming Soon*
 
 ## Results
 ![](https://raw.githubusercontent.com/kennethleungty/Principal-Component-Regression/main/images/rmse_table_final.png)
+
+## References
+- https://rpubs.com/esobolewska/pcr-step-by-step
+- https://blogs.sas.com/content/iml/2017/10/25/principal-component-regression-drawbacks.html
+- https://online.stat.psu.edu/stat508/lesson/7/7.1
+- https://scikit-learn.org/stable/auto_examples/cross_decomposition/plot_pcr_vs_pls.html
