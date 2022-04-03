@@ -1,5 +1,5 @@
 # Principal Component Regression (PCR) - Clearly Explained and Implemented
-Understanding the regression analysis technique based on principal component analysis (PCA)
+Understanding the concepts and Python implementation of the regression analysis technique based on principal component analysis (PCA)
 
 Link to article: *Coming Soon*
 
