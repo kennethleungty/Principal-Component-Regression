@@ -11,3 +11,6 @@ Link to article: *Coming Soon*
 - `/data`: Datasets for the PCR analysis (diamond quality and wine quality data)
 - `/notebooks`: Notebooks demonstrating the implementation of PCR
 - `/images`: Images/screenshots involved in project
+
+## Results
+![](https://raw.githubusercontent.com/kennethleungty/Principal-Component-Regression/main/images/rmse_table_final.png)
