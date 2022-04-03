@@ -12,7 +12,7 @@ Link to article: *Coming Soon*
 - `/notebooks`: Notebooks demonstrating the implementation of PCR
 - `/images`: Images/screenshots involved in project
 
-## Results
+## Results - Wine Quality Dataset
 ![](https://raw.githubusercontent.com/kennethleungty/Principal-Component-Regression/main/images/rmse_table_final.png)
 
 ## References
