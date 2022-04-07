@@ -1,7 +1,7 @@
 # Principal Component Regression (PCR) - Clearly Explained and Implemented
 Understanding the concepts and Python implementation of the regression analysis technique based on principal component analysis (PCA)
 
-Link to article: *Coming Soon*
+Link to article: https://towardsdatascience.com/principal-component-regression-clearly-explained-and-implemented-608471530a2f
 
 ## Overview
 - Principal component analysis (PCA) is a well-known dimensionality reduction technique, but did you know that we can also apply the concepts behind PCA in regression analysis? 
